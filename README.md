@@ -25,8 +25,6 @@ This repository contains a demo showcasing the implementation of the RAG (Retrie
 4. Follow the setup instructions provided in the README file.
 5. Run the demo application and explore the RAG pattern in action.
 
-## License
-This project is licensed under the [MIT License](MIT.md), granting permission for commercial and non-commercial use with proper attribution.
 
 ## Support
 For any questions or issues, please [open an issue](https://github.com/saravatpt/Research_Helper_React_App/issues) on GitHub or reach out to the project maintainers.

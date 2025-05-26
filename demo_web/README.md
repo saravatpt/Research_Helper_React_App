@@ -30,8 +30,6 @@ npm start
 
 ![research helper screenshot](../images/research_helper_screenshot1.PNG)
 
-## License
-This project is licensed under the [MIT License](../MIT.md), granting permission for commercial and non-commercial use with proper attribution.
 
 ## Support
 For any questions or issues, please [open an issue](https://github.com/saravatpt/Research_Helper_React_App/issues) on GitHub or reach out to the project maintainers.
